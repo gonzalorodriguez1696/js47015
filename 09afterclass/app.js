@@ -105,7 +105,6 @@ do{
     //mostrar al usuario el producto que posee
     alert( carrito.mostrar() )
 
-
     rta = prompt("¿Desea finalizar la compra? (escriba 'SI' para finalizar)").toLowerCase()
 }while(rta != "si")
 
