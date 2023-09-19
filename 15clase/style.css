@@ -1,0 +1,7 @@
+div{
+    display: none;
+}
+
+.popup-active{
+    display:block;
+}

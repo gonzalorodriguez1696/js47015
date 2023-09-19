@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre": "ryzen 3",
+        "precio": 100,
+        "descripcion": "Un microprocesador de gama baja",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51Dx39HJ8kL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador amd"
+    },
+    {
+        "id": 2,
+        "nombre": "ryzen 5",
+        "precio": 150,
+        "descripcion": "Un microprocesador de gama media",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51f2hkWjTlL._AC_SX522_.jpg",
+        "alt": "un microprocesador amd"
+    },
+    {
+        "id": 3,
+        "nombre": "ryzen 7",
+        "precio": 250,
+        "descripcion": "Un microprocesador de gama alta",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51D3DrDmwkL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador amd"
+    },
+    {
+        "id": 4,
+        "nombre": "ryzen 9",
+        "precio": 500,
+        "descripcion": "Un microprocesador de gama alta",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/616VM20+AzL._AC_SX300_SY300_.jpg",
+        "alt": "un microprocesador amd"
+    },
+    {
+        "id": 5,
+        "nombre": "intel i3",
+        "precio": 100,
+        "descripcion": "Un microprocesador de gama baja",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51C8njBn7mL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador intel"
+    },
+    {
+        "id": 6,
+        "nombre": "intel i5",
+        "precio": 150,
+        "descripcion": "Un microprocesador de gama media",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51QJsh7HAhL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador intel"
+    },
+    {
+        "id": 7,
+        "nombre": "intel i7",
+        "precio": 250,
+        "descripcion": "Un microprocesador de gama alta",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/51GYVerUgML.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador intel"
+    },
+    {
+        "id": 8,
+        "nombre": "intel i9",
+        "precio": 500,
+        "descripcion": "Un microprocesador de gama alta",
+        "cantidad": 1,
+        "img": "https://m.media-amazon.com/images/I/71diouNMRHL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "alt": "un microprocesador intel"
+    }
+]
